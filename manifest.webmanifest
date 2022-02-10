@@ -1,7 +1,6 @@
 {
     "background_color": "purple",
     "description": " 3η Εργασία: Web Application",
-
     "icons": [{
         "src": "icon/icon.png",
         "sizes": "192x192",
@@ -9,6 +8,6 @@
     }],
     "name": "RaceTable, mai22001 - project 3",
     "short_name": "TableRace",
-    "start_url": "/RaceTable/index.html"
+    "start_url": "/RaceTable/index.html",
     "display": "standalone"
 }
