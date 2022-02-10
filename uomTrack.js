@@ -886,7 +886,7 @@ function removeKey(evt) {
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-        .register('/mai22001-Race-Table/sw.js')
+        .register('/RaceTable/sw.js')
         .then(() => { console.log('Service Worker Registered'); });
 }
 
